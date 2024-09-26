@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DroidSqliteOfekServer", "3DroidSqliteOfekServer\3DroidSqliteOfekServer.csproj", "{509BC21A-51A5-4A5A-B99B-C01167D54BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{509BC21A-51A5-4A5A-B99B-C01167D54BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509BC21A-51A5-4A5A-B99B-C01167D54BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509BC21A-51A5-4A5A-B99B-C01167D54BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509BC21A-51A5-4A5A-B99B-C01167D54BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
